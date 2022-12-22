@@ -1,4 +1,3 @@
-lines (23 sloc)  693 Bytes
 #ifndef _MAIN_H_
 #define _MAIN_H_
 
@@ -23,4 +22,4 @@ unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
-#endif
+#endif /* _MAIN_H_ */
